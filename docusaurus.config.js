@@ -84,6 +84,9 @@ module.exports = {
 </a>
 <br/>
 Site content is licensed <a href='http://creativecommons.org/licenses/by-nd/4.0/'>CC-BY-ND-4.0</a>`
+    },
+    prism: {
+      additionalLanguages: ['kotlin', 'typescript', 'python']
     }
   },
   plugins: [
